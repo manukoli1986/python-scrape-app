@@ -2,4 +2,6 @@ This application will run on flask python framework and run on port no 5000 whic
 
 docker-compose up -d
 
-Go to browser and hit <Public-IP>:5000
+Go to browser and hit 
+
+e.g.  http://Public-IP:5000
